@@ -154,10 +154,8 @@ const Landing = () => {
                 className="relative w-64 h-64 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-accent-cyan glow-effect preserve-3d"
                 style={{ perspective: '1000px' }}
               >
-                {/* Placeholder for profile image */}
-                <div className="w-full h-full bg-gradient-to-br from-accent-cyan/20 to-accent-blue/20 flex items-center justify-center">
-                  <span className="text-6xl font-bold dark:text-white text-navy-dark">LA</span>
-                </div>
+                {/* Profile image */}
+                <img src="/images/LefikaSetuke.jpeg" alt="Lefika Andrew Setuke" className="w-full h-full object-cover" />
               </motion.div>
               
               {/* Decorative elements */}
