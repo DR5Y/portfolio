@@ -129,7 +129,7 @@ This project is open source and available under the MIT License.
 ## 🤝 Contact
 
 Lefika Andrew Setuke
-- Email: lefika.setuke@example.com
+- Email: lefikaasetuke@gmail.com
 - GitHub: [Your GitHub](https://github.com/yourusername)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
 
