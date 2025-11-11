@@ -1,0 +1,40 @@
+/* Additional custom styles if needed */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a192f;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #64ffda;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #57cbff;
+}
+
+/* Light mode scrollbar */
+.light ::-webkit-scrollbar-track {
+  background: #f0f9ff;
+}
+
+.light ::-webkit-scrollbar-thumb {
+  background: #0ea5e9;
+}
+
+.light ::-webkit-scrollbar-thumb:hover {
+  background: #0284c7;
+}
+
