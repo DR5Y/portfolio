@@ -10,26 +10,26 @@ const Projects = () => {
   // Replace these with your actual projects
   const projects = [
     {
-      title: 'Cloud Security Dashboard',
+      title: 'AI Solutions',
       description: 'A comprehensive security monitoring dashboard for cloud infrastructure. Features real-time threat detection, compliance monitoring, and automated incident response.',
-      technologies: ['React', 'Node.js', 'AWS', 'MongoDB', 'Docker'],
-      github: 'https://github.com/yourusername/project1',
-      live: 'https://project1.com',
+      technologies: ['HTML5', 'CSS', 'Cloudflare', 'Firebase'],
+      github: 'https://github.com/DR5Y/AI-SOLUTIONS-PROJECT',
+      live: 'https://aisolutions.pages.dev/',
       image: 'gradient-1'
     },
     {
-      title: 'DevSecOps Pipeline',
-      description: 'Automated CI/CD pipeline with integrated security scanning, vulnerability assessment, and compliance checks for containerized applications.',
-      technologies: ['Jenkins', 'Docker', 'Kubernetes', 'SonarQube', 'Trivy'],
-      github: 'https://github.com/yourusername/project2',
-      live: 'https://project2.com',
+      title: 'Glamlink',
+      description: 'A beauty stylist platform connecting clients with professional stylists for personalized beauty services.',
+      technologies: ['Redis', 'Docker', 'Railway', 'TypeScript', 'Node.js', 'React'],
+      github: 'https://github.com/africacodeacademy/whatbot-2/tree/glam-link-develop',
+      live: 'http://glamlink.africacodefoundry.com/',
       image: 'gradient-2'
     },
     {
-      title: 'E-Commerce Platform',
-      description: 'Full-stack e-commerce solution with secure payment processing, inventory management, and real-time analytics.',
-      technologies: ['Next.js', 'TypeScript', 'PostgreSQL', 'Stripe', 'Redis'],
-      github: 'https://github.com/yourusername/project3',
+      title: 'Token Authentication System',
+      description: 'A secure token-based authentication system built as part of a university cybersecurity assignment.',
+      technologies: ['HTML5', 'Python', 'PostgreSQL'],
+      github: 'https://github.com/DR5Y/Token-Authentication-System',
       live: 'https://project3.com',
       image: 'gradient-3'
     },
