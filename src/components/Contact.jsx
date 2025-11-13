@@ -36,9 +36,9 @@ const Contact = () => {
 
     // Replace these with your EmailJS credentials
     // Get them from: https://www.emailjs.com/
-    const SERVICE_ID = 'YOUR_SERVICE_ID';
-    const TEMPLATE_ID = 'YOUR_TEMPLATE_ID';
-    const PUBLIC_KEY = 'YOUR_PUBLIC_KEY';
+    const SERVICE_ID = 'service_5blotto';
+    const TEMPLATE_ID = 'template_bomnxgs';
+    const PUBLIC_KEY = 'A4GpOjxatGd9t8kn9';
 
     try {
       await emailjs.sendForm(
@@ -133,7 +133,7 @@ const Contact = () => {
                     onChange={handleChange}
                     required
                     className="w-full px-4 py-3 rounded-lg border-2 border-accent-cyan/30 dark:bg-navy-lighter bg-light-secondary dark:text-white text-navy-dark focus:border-accent-cyan focus:outline-none transition-colors"
-                    placeholder="John Doe"
+                    placeholder="Drew Setuke"
                   />
                 </div>
 
@@ -153,7 +153,7 @@ const Contact = () => {
                     onChange={handleChange}
                     required
                     className="w-full px-4 py-3 rounded-lg border-2 border-accent-cyan/30 dark:bg-navy-lighter bg-light-secondary dark:text-white text-navy-dark focus:border-accent-cyan focus:outline-none transition-colors"
-                    placeholder="john@example.com"
+                    placeholder="drew@gmail.com"
                   />
                 </div>
 
