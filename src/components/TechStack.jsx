@@ -164,9 +164,9 @@ const TechStack = () => {
             className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6"
           >
             {[
-              { value: '50+', label: 'Projects Completed' },
+              { value: '20+', label: 'Projects Completed' },
               { value: '10+', label: 'Technologies' },
-              { value: '5+', label: 'Years Experience' },
+              { value: '3+', label: 'Years Experience' },
               { value: '100%', label: 'Commitment' },
             ].map((stat, index) => (
               <motion.div

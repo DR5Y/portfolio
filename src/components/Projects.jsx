@@ -34,11 +34,11 @@ const Projects = () => {
       image: 'gradient-3'
     },
     {
-      title: 'API Security Gateway',
-      description: 'Custom API gateway with OAuth2 authentication, rate limiting, request validation, and comprehensive logging.',
-      technologies: ['Node.js', 'Express', 'Redis', 'JWT', 'MongoDB'],
-      github: 'https://github.com/yourusername/project4',
-      live: 'https://project4.com',
+      title: 'React Burger Builder',
+      description: 'Minimalistic burger builder application CRUD operations.',
+      technologies: ['JavaScript', 'HTML', 'CSS3'],
+      github: 'https://github.com/DR5Y/ACA-Burger-Builder',
+      live: 'https://aca-burger-builder.vercel.app/',
       image: 'gradient-4'
     },
     {
