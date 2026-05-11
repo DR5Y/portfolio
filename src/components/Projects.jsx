@@ -42,11 +42,11 @@ const Projects = () => {
       image: 'gradient-4'
     },
     {
-      title: 'Threat Intelligence Platform',
-      description: 'Platform for aggregating and analyzing security threats from multiple sources with machine learning-based prediction.',
-      technologies: ['Python', 'FastAPI', 'TensorFlow', 'PostgreSQL', 'React'],
-      github: 'https://github.com/yourusername/project5',
-      live: 'https://project5.com',
+      title: 'REA RORISA VOL 1 TICKING SYSTEM',
+      description: 'A ticketing system for a music event, allowing users to purchase tickets, view event details, and manage their bookings.',
+      technologies: ['Node.js', 'Express', 'Docker', 'PostgreSQL', 'React'],
+      github: 'https://github.com/DR5Y/rea-rorisa-live',
+      live: 'https://rea-rorisa-live.vercel.app/',
       image: 'gradient-5'
     },
     {
